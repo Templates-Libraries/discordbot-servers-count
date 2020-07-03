@@ -1,0 +1,16 @@
+{
+    "name": "discordbot-servers-count",
+    "version": "1.0.0",
+    "description": "Скрипт для получения количества серверов Discord бота",
+    "main": "index.js",
+    "repository": "https://github.com/vladciphersky/discordbot-servers-count",
+    "author": {
+        "name": "vladciphersky",
+        "url": "https://sqdsh.top/"
+    },
+    "license": "MIT",
+    "private": false,
+    "dependencies": {
+        "node-fetch": "^2.6.0"
+    }
+}
